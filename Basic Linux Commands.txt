@@ -1,0 +1,6 @@
+Basic Linux Commands
+-----------------------------
+cd <path> - Change Directory
+mkdir <name> - make Directory
+cd ../ -> to go to parent folder
+ls -> to get list of items in that place.

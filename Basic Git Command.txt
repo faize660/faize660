@@ -1,0 +1,4 @@
+1. git clone <url> -> To get git repository in your local machine.
+2. git branch -> to check branches available
+3. git checkout <branchName> -> To change branch to existing branch
+4. git checkout -b <branchName> -> To change branch by creating a new one.
